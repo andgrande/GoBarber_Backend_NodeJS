@@ -1,5 +1,6 @@
 # GoBarber backend (Node.js)
 
+Project developed during [Rocketseat](https://github.com/rocketseat-education) bootcamp
 
 ## Languages
 
