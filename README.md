@@ -8,7 +8,7 @@ Project developed during [Rocketseat](https://github.com/rocketseat-education) b
 
 ## Concepts and technologies applied in this project:
 
-- Relational DB (Postgres) and Non-relation DB (MongoDB and Redis)
+- Relational DB (PostgreSQL) and Non-relation DB (MongoDB and Redis)
 - Docker containers
 - SOLID principles
 - Dependency injection
